@@ -14,3 +14,4 @@ comments. Be sure to read everything. Run lab.js with `node lab1.js`.
 
 #### Resources and Collaborators
 
+1. <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split">MDN JavaScript Documentation</a>
